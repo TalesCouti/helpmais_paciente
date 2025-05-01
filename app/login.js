@@ -7,7 +7,7 @@ import NfcManager, {NfcTech} from 'react-native-nfc-manager';
 import { Alert } from 'react-native';
 import { useRouter } from 'expo-router';
 
-const API_URL = 'https://dashboard.render.com/d/dpg-d07rhlqdbo4c73br45fg-a'
+const API_URL = 'https://helpmais-paciente.onrender.com'
 
 
 
